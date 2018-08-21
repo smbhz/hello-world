@@ -1,2 +1,5 @@
 # hello-world
-is my first
+is my first commit..
+
+I WILL SEE HOW MUCH DO I ACTUALLY CODE..
+                                          for labs and for machine learning
